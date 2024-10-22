@@ -1,3 +1,4 @@
 # TicTacToe-Game
-TicTacToe AI Game using Minmax Algorithm
-![image](https://github.com/user-attachments/assets/9cd87398-0924-4c27-affe-928dd57df5d5)
+TicTacToe AI Game in Python using Minmax Algorithm
+![image](https://github.com/user-attachments/assets/cf5660ef-4278-4b6d-a581-1562bd1c00b8)
+![image](https://github.com/user-attachments/assets/5044c5f1-9444-4d5b-8fda-e7f187e6834f)
